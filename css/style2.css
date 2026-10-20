@@ -1,0 +1,36 @@
+/*글자 굵기*/
+p.normal { 
+    font-weight: normal; /*400이 normal*/
+}
+
+p.bold {
+    font-weight: bold; /*700 이상이면 bold보다 굵어짐*/
+}
+
+div.left {
+    text-align: left;
+}
+
+div.right {
+    text-align: right;
+}
+
+div.center {
+    text-align: center;
+}
+
+td.apple {
+    text-align: center;
+    background-color: red;
+    color: aliceblue;  /*해당 셀 안에 있는 글씨 색을 변경*/
+}
+
+td.watermelon {
+    text-align: center;
+    background-color: cadetblue;
+}
+
+td.grape {
+    text-align: center;
+    background-color: green;
+}

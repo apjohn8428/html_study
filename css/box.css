@@ -1,0 +1,26 @@
+div.box1 {
+    border: 2px solid black; /*테두리 굵기 + 선의 종류 + 선의 색깔*/
+    padding: 10px;
+    margin: 30px;
+    border-radius: 10px;
+ }
+
+ input.name {
+    border: 1px solid red;
+    padding: 20px;
+    font-size: 15px;
+    color: blue;
+    background-color: azure;
+    border-radius: 10px;
+ }
+
+ table.inputbox {
+    border: 1px solid rgb(231, 231, 231);
+ }
+
+ table.inputboxi {
+    border: 1px solid red;
+    padding: 20px;
+    color: brown;
+    border-radius: 10px;
+ }
